@@ -1,5 +1,7 @@
 # Exercise 2
 
+**NOTE: Alternatively, you can run in a script instead. To do so, you may need to run `Set-ExecutionPollicy -ExecutionPolicy RemoteSigned -Scope Process` in your PowerShell session in order to be able to execute.**
+
 In an interactive PowerShell session, complete the following:
 
 ## Part 1
@@ -10,16 +12,12 @@ In an interactive PowerShell session, complete the following:
 * Circumference = 2 * Pi * radius
 * Format the resulting output to 2 decimal places
 
-**NOTE: Alternatively, you can run in a script instead. To do so, you may need to run `Set-ExecutionPollicy -ExecutionPolicy RemoteSigned -Scope Process` in your PowerShell session in order to be able to execute.**
-
 ## Part 2
 
 * Using `Read-Host`, prompt the user for a cost and tax rate
 * Calculate and display total cost (including tax)
 * Prompt the user for amount paid
 * Calculate and display a summary message showing total cost, amount paid, and change (formatted as currency)
-
-**NOTE: Alternatively, you can run in a script instead. To do so, you may need to run `Set-ExecutionPollicy -ExecutionPolicy RemoteSigned -Scope Process` in your PowerShell session in order to be able to execute.**
 
 ## Part 3
 
